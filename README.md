@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hello World! 👋 It's jacaceresf!
 
+I'm a backend developer currently working with Java (Spring). 🔭 I’m currently working at BrosCo.
 
-- 🔭 I’m currently working at BrosCo.
-- 🌱 I’m currently learning python.
 
 ## 👨‍💻 Languages and Tools:
 
@@ -22,4 +21,3 @@
         </tr>
     </tbody>
 </table>
-
