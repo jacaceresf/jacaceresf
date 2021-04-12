@@ -22,8 +22,11 @@ I'm a backend developer currently working with Java (Spring). 🔭 I’m current
     </tbody>
 </table>
 
-## 🔥 My contribution stats
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jacaceresf&theme=vue-dark"/>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jacaceres&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacaceresf&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
