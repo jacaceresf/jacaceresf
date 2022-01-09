@@ -1,6 +1,6 @@
 ### Hello World! 👋 It's jacaceresf!
 
-I'm a backend developer currently working with Java (Spring), JavaScript (React), Python and sometimes with Kotlin (ktor). 🔭 I’m currently working at BrosCo.
+I'm a backend developer currently working with Java (Spring), JavaScript (React), Python and sometimes with Kotlin (ktor). 🔭 I’m currently working at BFGO Mx.
 
 
 ## 👨‍💻 Languages and Tools:
